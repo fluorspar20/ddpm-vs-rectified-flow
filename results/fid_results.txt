@@ -1,0 +1,42 @@
+mnist_ddpm_unet no-cfg: Saving generated images to /content/Assignment3/logs/mnist_ddpm_unet_final/model_final/eval_3a469o27
+mnist_ddpm_unet no-cfg: Evaluating FID scores ...
+mnist_ddpm_unet no-cfg: Saved FID statistics: ../data/fid_stats/fid-1a29b0126589096a.npz
+mnist_ddpm_unet no-cfg: FID:  8.19014017544248
+mnist_ddpm_vit no-cfg: Saving generated images to /content/Assignment3/logs/mnist_ddpm_vit_final/model_final/eval_8vwaibo_
+mnist_ddpm_vit no-cfg: Evaluating FID scores ...
+mnist_ddpm_vit no-cfg: Using cached FID statistics: ../data/fid_stats/fid-1a29b0126589096a.npz
+mnist_ddpm_vit no-cfg: FID:  10.162348268085026
+mnist_fm_unet no-cfg: Saving generated images to /content/Assignment3/logs/mnist_fm_unet_final/model_final/eval_cz1fpdwy
+mnist_fm_unet no-cfg: Evaluating FID scores ...
+mnist_fm_unet no-cfg: Using cached FID statistics: ../data/fid_stats/fid-1a29b0126589096a.npz
+mnist_fm_unet no-cfg: FID:  14.013973024669525
+mnist_fm_vit no-cfg: Saving generated images to /content/Assignment3/logs/mnist_fm_vit_final/model_final/eval_mopg_f8o
+mnist_fm_vit no-cfg: Evaluating FID scores ...
+mnist_fm_vit no-cfg: Using cached FID statistics: ../data/fid_stats/fid-1a29b0126589096a.npz
+mnist_fm_vit no-cfg: FID:  12.079461512508175
+miniimagenet_fm_unet no-cfg: Saving generated images to /content/Assignment3/logs/miniimagenet_fm_unet_final/model_final/eval_gndx12tm
+miniimagenet_fm_unet no-cfg: Evaluating FID scores ...
+miniimagenet_fm_unet no-cfg: Saved FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_unet no-cfg: FID:  119.11804461584325
+miniimagenet_fm_vit no-cfg: Saving generated images to /content/Assignment3/logs/miniimagenet_fm_vit_final/model_final/eval_zxpvjmmj
+miniimagenet_fm_vit no-cfg: Evaluating FID scores ...
+miniimagenet_fm_vit no-cfg: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_vit no-cfg: FID:  115.1360940524462
+miniimagenet_fm_unet cfg=1.5: Evaluating FID scores ...
+miniimagenet_fm_unet cfg=1.5: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_unet cfg=1.5: FID:  102.43102729497281
+miniimagenet_fm_unet cfg=2.5: Evaluating FID scores ...
+miniimagenet_fm_unet cfg=2.5: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_unet cfg=2.5: FID:  79.4264383979044
+miniimagenet_fm_unet cfg=4.0: Evaluating FID scores ...
+miniimagenet_fm_unet cfg=4.0: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_unet cfg=4.0: FID:  66.90985904705497
+miniimagenet_fm_vit cfg=1.5: Evaluating FID scores ...
+miniimagenet_fm_vit cfg=1.5: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_vit cfg=1.5: FID:  98.6228328268383
+miniimagenet_fm_vit cfg=2.5: Evaluating FID scores ...
+miniimagenet_fm_vit cfg=2.5: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_vit cfg=2.5: FID:  72.25784275826618
+miniimagenet_fm_vit cfg=4.0: Evaluating FID scores ...
+miniimagenet_fm_vit cfg=4.0: Using cached FID statistics: ../data/fid_stats/fid-9274a720fa1e471a.npz
+miniimagenet_fm_vit cfg=4.0: FID:  57.92658967097526
